@@ -1,2 +1,2 @@
 # Principles-of-Compiler-Design
-Some experiments of compiler principles
+Some experiments about principles of compiler
