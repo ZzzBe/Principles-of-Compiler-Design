@@ -7,7 +7,7 @@ This is a tiny experiment that helps you to understand the principle of the comp
 - **/doc:** Used for deposit the HTML doc.
 - **/src:** Source code.
 - **/testcases:** Included the testcases and the anticipated output;**\*.infix** correspondence the infix expression,**\*.postfix** correspondence the postfix expression.
-- **/*.sh:** Running script.
+- **/sh:** Running script.
 
 ##Experimental Process:
 ###Step1:Erasing the Tail Recusion.
